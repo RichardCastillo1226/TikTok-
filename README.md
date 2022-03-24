@@ -6,4 +6,6 @@
 2. chatbox 
 3. notifications 
 4. save button
+5. this would allow better hearing
+6. 
 
